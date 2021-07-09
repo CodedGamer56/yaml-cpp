@@ -2,6 +2,8 @@ build/
 /tags
 /bazel-*
 
+
 *.vcxproj
 *.vcxproj.filters
+*.vcxproj.filters.user
 *.vcxproj.user
